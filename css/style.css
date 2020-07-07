@@ -21923,7 +21923,7 @@
 @media (min-width: 992px) {
   .hero-area {
     padding-top: 165px;
-    padding-bottom: 0;
+    padding-bottom: 165px;
   }
 }
 
@@ -22121,7 +22121,7 @@
 
 @media (min-width: 992px) {
   .feature-area {
-    padding: 150px 0;
+    padding: 45px 0;
   }
 }
 
@@ -22441,7 +22441,7 @@
 
 @media (min-width: 768px) {
   .content-section-02 {
-    padding: 175px 0;
+    padding: 70px 0;
   }
 }
 

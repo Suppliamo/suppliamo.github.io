@@ -428,7 +428,7 @@
   }
   .content{
       h5{
-          font-size: 21px;
+          font-size: 17px;
           font-weight: 600;
           letter-spacing: -1px;
           line-height: 32px;
@@ -618,14 +618,14 @@
  .content-section-02 {
    padding: 70px 0;
   @include tablet{
-    padding: 175px 0;
+    padding: 20px 0;
   }
  }
  .content-wrapper {
   border-bottom: 1px solid #fff;
   padding-bottom: 65px;
   @include desktops{
-    padding-bottom: 122px;
+    padding-bottom: 22px;
   }
  }
  .content-right-image {
